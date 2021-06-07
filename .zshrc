@@ -99,6 +99,6 @@ source $ZSH/oh-my-zsh.sh
 # Aliases
 alias zshconfig="vim ~/.zshrc"
 alias c="clear"
-alias xx="exit"
-alias td="tree -d"
+alias xx="exit" 
+alias td="tree -d"  # Tree with dir names only
 alias tt="tree"
